@@ -8,7 +8,7 @@ Shimano sora/prowheel
 
 - Triban RC500
 https://www.decathlon.fr/p/velo-route-cyclotouriste-triban-rc500-frein-disque/_/R-p-301728?mc=8502354
-750 euros 
+750 euros - 5/100 = 712.5.5 - 40 (offre carte kdo) = 672.5 euros 
 Full shimano sora
 
 - Triban rc520
@@ -24,3 +24,5 @@ Full shimano 105
 - Canyon Endurace AL 6RB: https://www.canyon.com/en-de/road-bikes/endurance-bikes/endurace/al/endurace-6-rb/2730.html?dwvar_2730_pv_rahmenfarbe=BK%2FBK
 999 (bike) + 10 euros (bicycode) + 60 (frais envois) = 1070 euros
 Full Shimano Tiagra
+
+Canyon endurance - triban rc500 = 400 euros, or ratio of 1.59 
