@@ -50,9 +50,13 @@ Un peu cher pour le travail...
 
 ## Solution
 
-Velo de l'outlet (coup de chance?)
+Velo de l'outlet (coup de chance?) - Endurace AL  7
+
 https://www.canyon.com/fr-fr/promo-velos/route/endurace-7/50030073.html?dwvar_50030073_pv_batchnumber=0001073414&history=1
+
 ==> 1099 euros [+ 10 euros (bicycode) + 60 (frais envois)]
+
+(au lieu de 1199 euros selon le site. mais il est bien affiche a 1499 euros actuellement, et avec les meme compos: [`diff Endurace7-new/composants.txt.txt Endurace7-outlet/composants.txt.txt --side-by-side`](./CanyonWebsite/output-diff-endurace-outlet-new.txt)).
 
 Semble une tres bonne affaire
 

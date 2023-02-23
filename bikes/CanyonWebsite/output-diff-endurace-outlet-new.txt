@@ -1,0 +1,133 @@
+$ diff Endurace7-new/composants.txt.txt Endurace7-outlet/composants.txt.txt --side-by-side
+Endurace 7                                                    <
+Shimano 105 R7000 GS                                          <
+Le groupe Shimano 105 reprend les innovations des groupe      <
+Endurace 7                                                    <
+Selle Italia Model X                                          <
+La selle Selle Italia Model X est légère et confortable       <
+Endurace 7                                                    <
+Fulcrum Racing 900 DB                                         <
+Cette paire de roues est à la hauteur des plus longues r      <
+Endurace 7                                                    <
+Shimano 105 R7020 11s                                         <
+Le groupe Shimano 105 reprend les innovations des groupe      <
+Cadre                                                           Cadre
+
+    Cadre                                                           Cadre
+        Canyon Endurace AL Disc                                         Canyon Endurace AL Disc
+        Dimension de l'Axe: 12x142 mm                                   Dimension de l'Axe: 12x142 mm
+        Matériau: Aluminium (AL)                                        Matériau: Aluminium (AL)
+    Fourche                                                         Fourche
+        Canyon FK0089 CF Disc                                           Canyon FK0089 CF Disc
+        Matériau: Carbone (CF)                                          Matériau: Carbone (CF)
+
+Transmission                                                    Transmission
+
+    Dérailleur arrière                                              Dérailleur arrière
+        Shimano 105 R7000 GS                                            Shimano 105 R7000 GS
+        Dérailleur arrière pour système 11 vitesses.                    Dérailleur arrière pour système 11 vitesses.
+        Taille de cassette maximale : 34 dents                          Taille de cassette maximale : 34 dents
+    Dérailleur avant                                                Dérailleur avant
+        Shimano 105 R7000                                               Shimano 105 R7000
+        2 x 11 vitesse, la nouvelle construction des maillons           2 x 11 vitesse, la nouvelle construction des maillons
+        Montage braze-on                                                Montage braze-on
+        Couleur : noir                                                  Couleur : noir
+        Poids : 90 g                                                    Poids : 90 g
+    Cassette                                                        Cassette
+        Shimano HG700 11-34 11s                                         Shimano HG700 11-34 11s
+        Cassette Shimano 105                                            Cassette Shimano 105
+        Etagement : 11-34T                                              Etagement : 11-34T
+        Number of sprockets: 11                                         Number of sprockets: 11
+    Pédalier                                                        Pédalier
+        Shimano 105 R7000                                               Shimano 105 R7000
+        Pédalier 2-by léger et rigide avec une technologie Ho           Pédalier 2-by léger et rigide avec une technologie Ho
+        Taille du plateau  : 52/36                                      Taille du plateau  : 52/36
+    Boîtier de pédalier                                             Boîtier de pédalier
+        Token Ninja Lite BB4124                                         Token Ninja Lite BB4124
+        La technologie Thread-Fit réduit les risques du désal           La technologie Thread-Fit réduit les risques du désal
+        Poids : 83 g                                                    Poids : 83 g
+    Chaîne                                                          Chaîne
+        Shimano CN-HG601 11s                                            Shimano CN-HG601 11s
+        Chaîne avec traitement de surface SIL-TEC à très faib           Chaîne avec traitement de surface SIL-TEC à très faib
+
+Freins                                                          Freins
+
+    Levier de frein/ dérailleur                                     Levier de frein/ dérailleur
+        Shimano 105 R7020 2s                                            Shimano 105 R7020 2s
+        Poids: 305 g                                                    Poids: 305 g
+    Levier de frein/ dérailleur                                     Levier de frein/ dérailleur
+        Shimano 105 R7020 11s                                           Shimano 105 R7020 11s
+        Poids: 305 g                                                    Poids: 305 g
+    Disque de frein                                                 Disque de frein
+        Shimano RT70                                                    Shimano RT70
+        Montage du Disque: Centerlock                                   Montage du Disque: Centerlock
+
+Roues                                                           Roues
+
+    Roue                                                            Roue
+        Fulcrum Racing 900 DB                                           Fulcrum Racing 900 DB
+        Fixation Du Disque: Center Lock                                 Fixation Du Disque: Center Lock
+        Hauteur de la jante: 24 mm                                      Hauteur de la jante: 24 mm
+    Roue                                                            Roue
+        Fulcrum Racing 900 DB SH11                                      Fulcrum Racing 900 DB SH11
+        Fixation Du Disque: Center Lock                                 Fixation Du Disque: Center Lock
+        Hauteur de la jante: 24 mm                                      Hauteur de la jante: 24 mm
+    Pneu                                                            Pneu
+        Schwalbe One, 30mm                                              Schwalbe One, 30mm
+    Pneu                                                            Pneu
+        Schwalbe One, 32mm                                              Schwalbe One, 32mm
+    Axe traversant                                                  Axe traversant
+        Canyon Thru Axle                                                Canyon Thru Axle
+        Axe traversant développé pour un démontage et un mont           Axe traversant développé pour un démontage et un mont
+        Matériau: Aluminium                                             Matériau: Aluminium
+        Dimension hors-tout: 12 x 100 mm                                Dimension hors-tout: 12 x 100 mm
+        Filetage: M12 x 1.0                                             Filetage: M12 x 1.0
+    Axe traversant                                                  Axe traversant
+        Canyon Thru Axle                                                Canyon Thru Axle
+        Axe traversant développé pour un démontage et un mont           Axe traversant développé pour un démontage et un mont
+        Matériau: Aluminium                                             Matériau: Aluminium
+        Dimension hors-tout: 12 x 142 mm                                Dimension hors-tout: 12 x 142 mm
+        Filetage: M12 x 1.0                                             Filetage: M12 x 1.0
+
+Cockpit                                                         Cockpit
+
+    Potence                                                         Potence
+        Canyon V13                                                      Canyon V13
+        Tige en aluminium de haute qualité Nouveau design de            Tige en aluminium de haute qualité Nouveau design de
+        Diamètre du collier de serrage : 31,8 mm.                       Diamètre du collier de serrage : 31,8 mm.
+        Diamètre du tube de direction : 1 1/4”                          Diamètre du tube de direction : 1 1/4”
+    Guidon                                                          Guidon
+        Canyon H17 Ergobar AL                                           Canyon H17 Ergobar AL
+        Matériau: Aluminium                                             Matériau: Aluminium
+        Forme: Ergo                                                     Forme: Ergo
+        Reach: 70 mm                                                    Reach: 70 mm
+        Drop: 130 mm                                                    Drop: 130 mm
+    Guidoline                                                       Guidoline
+        Canyon Ergospeed Gel                                            Canyon Ergospeed Gel
+        Une guidoline avec de la mousse EVA et un mix de gel            Une guidoline avec de la mousse EVA et un mix de gel
+        Couleur: noir                                                   Couleur: noir
+
+Selle                                                           Selle
+
+    Selle                                                           Selle
+        Selle Italia Model X                                            Selle Italia Model X
+        Selle avec découpe centrale et ailes flexibles pour u           Selle avec découpe centrale et ailes flexibles pour u
+        Matériau rail : manganèse                                       Matériau rail : manganèse
+    Tige de selle                                                   Tige de selle
+        Canyon SP0057 VCLS                                              Canyon SP0057 VCLS
+        Avec un design absorbant les vibrations pour un confo           Avec un design absorbant les vibrations pour un confo
+        Matériau  : Fibre de carbone                                    Matériau  : Fibre de carbone
+        Recul  : 20 mm                                                  Recul  : 20 mm
+        Diamètre Du Collier: 27,2 mm                                    Diamètre Du Collier: 27,2 mm
+        Matériau: Carbone (CF)                                          Matériau: Carbone (CF)
+
+Accessoires                                                     Accessoires
+
+    Pédales                                                         Pédales
+        Non inclus                                                      Non inclus
+    Manuels et accessoir                                            Manuels et accessoir
+        Boîte à outils Canyon                                           Boîte à outils Canyon
+        Boîte de rangement pour les outils et les pièces de r           Boîte de rangement pour les outils et les pièces de r
+    Manuels et accessoir                                            Manuels et accessoir
+        Canyon starter box                                              Canyon starter box
+        Tout ce dont vous avez besoin pour aller rouler : Gui           Tout ce dont vous avez besoin pour aller rouler : Gui
