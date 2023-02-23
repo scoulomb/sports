@@ -1,0 +1,27 @@
+$ cat Utlimate-cf-sl7-disc/pd.txt.txt | grep -C 2 Patte
+Cassette
+Shimano 105 CS-R7000 11-speed Cassette
+Patte de dérailleur
+Patte de dérailleur GP0211-01
+Pièces de jeu de direction et entretoises
+Canyon EP0809-01 Cale de serrage de cockpit CP0010
+--
+Pièces de montage
+Canyon GP7009-01 Battery Holder
+Patte de dérailleur
+Canyon GP7014-01 Front Derailleur Hanger
+Colliers de selle
+
+$ cat Endurace7-new/pd.txt.txt | grep -C 2 Patte
+    Couvercle
+        Canyon GP0321-01 Dropout Cover
+    Patte de dérailleur
+        Canyon GP7008-01 Front Derailleur Hanger
+    Colliers de selle
+--
+    Pièces de jeu de direction et entretoises
+        Canyon E201-15 Wedge
+    Patte de dérailleur
+        Patte de dérailleur GP0211-01
+    Pièces de passage de câble interne
+        Canyon GP7162-01 Cable Routing Kit

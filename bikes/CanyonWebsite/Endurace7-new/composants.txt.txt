@@ -1,0 +1,133 @@
+Endurace 7
+Shimano 105 R7000 GS
+Le groupe Shimano 105 reprend les innovations des groupes Dura-Ace et Ultegra et les rend plus accessibles que jamais. Le nouveau design ergonomique des leviers STI permet un contrôle total du changement de vitesse et du freinage.
+Endurace 7
+Selle Italia Model X
+La selle Selle Italia Model X est légère et confortable pour les longues randonnées. Grâce à un choix judicieux de matériaux, elle est extrêmement durable et constitue un excellent choix pour les randonnées quotidiennes.
+Endurace 7
+Fulcrum Racing 900 DB
+Cette paire de roues est à la hauteur des plus longues randonnées. Le design asymétrique de la jante de la roue arrière améliore la rigidité latérale et en torsion et garantit une réactivité exceptionnelle. Associée aux pneus Schwalbe One (avant : 30 mm, arrière : 32 mm) pour des performances optimales.
+Endurace 7
+Shimano 105 R7020 11s
+Le groupe Shimano 105 reprend les innovations des groupes Dura-Ace et Ultegra et les rend plus accessibles que jamais. Le nouveau design ergonomique des leviers STI permet un contrôle total du changement de vitesse et du freinage.
+Cadre
+
+    Cadre
+        Canyon Endurace AL Disc
+        Dimension de l'Axe: 12x142 mm
+        Matériau: Aluminium (AL)
+    Fourche
+        Canyon FK0089 CF Disc
+        Matériau: Carbone (CF)
+
+Transmission
+
+    Dérailleur arrière
+        Shimano 105 R7000 GS
+        Dérailleur arrière pour système 11 vitesses.
+        Taille de cassette maximale : 34 dents
+    Dérailleur avant
+        Shimano 105 R7000
+        2 x 11 vitesse, la nouvelle construction des maillons permet un changement de vitesse avant plus léger, un réglage intégré de la tension du câble et un design de cage plus court, optimisé pour les freins à disque.
+        Montage braze-on
+        Couleur : noir
+        Poids : 90 g
+    Cassette
+        Shimano HG700 11-34 11s
+        Cassette Shimano 105
+        Etagement : 11-34T
+        Number of sprockets: 11
+    Pédalier
+        Shimano 105 R7000
+        Pédalier 2-by léger et rigide avec une technologie Hollowtech 2 pour un poids réduit.
+        Taille du plateau  : 52/36
+    Boîtier de pédalier
+        Token Ninja Lite BB4124
+        La technologie Thread-Fit réduit les risques du désalignement des roulements. Standard routier BB86, compatible avec les axes de 24 mm.
+        Poids : 83 g
+    Chaîne
+        Shimano CN-HG601 11s
+        Chaîne avec traitement de surface SIL-TEC à très faible friction pour un changement de vitesse précis et une meilleure durabilité.
+
+Freins
+
+    Levier de frein/ dérailleur
+        Shimano 105 R7020 2s
+        Poids: 305 g
+    Levier de frein/ dérailleur
+        Shimano 105 R7020 11s
+        Poids: 305 g
+    Disque de frein
+        Shimano RT70
+        Montage du Disque: Centerlock
+
+Roues
+
+    Roue
+        Fulcrum Racing 900 DB
+        Fixation Du Disque: Center Lock
+        Hauteur de la jante: 24 mm
+    Roue
+        Fulcrum Racing 900 DB SH11
+        Fixation Du Disque: Center Lock
+        Hauteur de la jante: 24 mm
+    Pneu
+        Schwalbe One, 30mm
+    Pneu
+        Schwalbe One, 32mm
+    Axe traversant
+        Canyon Thru Axle
+        Axe traversant développé pour un démontage et un montage simples de la roue. Après le serrage, la poignée reste fixée sur l'axe. Vous pouvez régler librement la poignée dans la position souhaitée. Dimensions de l'axe : 12 x 100 mm.
+        Matériau: Aluminium
+        Dimension hors-tout: 12 x 100 mm
+        Filetage: M12 x 1.0
+    Axe traversant
+        Canyon Thru Axle
+        Axe traversant développé pour un démontage et un montage simples de la roue. Après le serrage, la poignée reste fixée sur l'axe. Vous pouvez régler librement la poignée dans la position souhaitée. Dimensions de l'axe : 12 x 142 mm.
+        Matériau: Aluminium
+        Dimension hors-tout: 12 x 142 mm
+        Filetage: M12 x 1.0
+
+Cockpit
+
+    Potence
+        Canyon V13
+        Tige en aluminium de haute qualité Nouveau design de fixation du guidon pour une rigidité en torsion accrue de 40 %.
+        Diamètre du collier de serrage : 31,8 mm.
+        Diamètre du tube de direction : 1 1/4”
+    Guidon
+        Canyon H17 Ergobar AL
+        Matériau: Aluminium
+        Forme: Ergo
+        Reach: 70 mm
+        Drop: 130 mm
+    Guidoline
+        Canyon Ergospeed Gel
+        Une guidoline avec de la mousse EVA et un mix de gel elastomère pour un confort optimal.
+        Couleur: noir
+
+Selle
+
+    Selle
+        Selle Italia Model X
+        Selle avec découpe centrale et ailes flexibles pour un confort maximal. Revêtement Soft-Tek durable pour une durabilité et une résistance aux rayures maximales.
+        Matériau rail : manganèse
+    Tige de selle
+        Canyon SP0057 VCLS
+        Avec un design absorbant les vibrations pour un confort maximal à l’arrière.
+        Matériau  : Fibre de carbone
+        Recul  : 20 mm
+        Diamètre Du Collier: 27,2 mm
+        Matériau: Carbone (CF)
+
+Accessoires
+
+    Pédales
+        Non inclus
+    Manuels et accessoir
+        Boîte à outils Canyon
+        Boîte de rangement pour les outils et les pièces de rechange.
+    Manuels et accessoir
+        Canyon starter box
+        Tout ce dont vous avez besoin pour aller rouler : Guide de Démarrage Rapide, manuel, clé dynamométrique avec embouts, pâte d'assemblage
+
