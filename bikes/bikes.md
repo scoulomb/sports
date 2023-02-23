@@ -52,7 +52,7 @@ Un peu cher pour le travail...
 
 Velo de l'outlet (coup de chance?)
 https://www.canyon.com/fr-fr/promo-velos/route/endurace-7/50030073.html?dwvar_50030073_pv_batchnumber=0001073414&history=1
-==> 1099 euros
+==> 1099 euros [+ 10 euros (bicycode) + 60 (frais envois)]
 
 Semble une tres bonne affaire
 
