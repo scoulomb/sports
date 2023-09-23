@@ -51,7 +51,10 @@
 - Wahoo kicker v5 - hard to find but could get good discount here
     - https://boutique.bipr.fr/boutique/home-trainer/home-trainer-wahoo-kickr-power-v5-axis/
         - 850 euros (frais de port compris et casette incluse + cle ant) 
-    - Best price seen: https://www.dealabs.com/bons-plans/home-trainer-wahoo-kickr-v5-2438294 792euros (700 euros all tricks form google search?)
+    - Best price seen:
+        -  https://www.dealabs.com/bons-plans/home-trainer-wahoo-kickr-v5-2438294 792euros
+        - https://www.dealabs.com/bons-plans/wahoo-kickr-v5-2509173 700 euros
+        -  (700 euros all tricks form google search?)
     - A la sortie 1200 euros: https://thepaincave.net/le-nouveau-wahoo-kickr-2020/
     - pas cher ici: https://www.chainreactioncycles.com/p/wahoo-kickr-smart-turbo-trainer?utm_source=affiliate-window&utm_medium=affiliates&utm_campaign=TechRadar&utm_term=Future+Publishing.&utm_content=Editorial+Content&awc=2698_1695473379_228bb27cedb2f81d90e0700f09c845ba&sv_campaign_id=103504&sv_tax1=affiliate&sv_tax2=375403%7C375413%7C375415&sv_tax3=Future+Publishing.&sv_tax4=0&sv_affiliate_id=103504 -> 600 euros  (but not delivered in france + UK/US plug)
         - https://www.idealo.fr/prix/200703255/wahoo-kickr-v5.html
