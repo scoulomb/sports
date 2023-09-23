@@ -46,6 +46,8 @@
 - Whahoo kicker v6 (wifi)
     - https://werideoncycling-shop.com/products/home-trainer-wahoo-kickr-v6-smart-power-trainer-w-wifi?variant=46463671206231&currency=EUR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=Cj0KCQjw9rSoBhCiARIsAFOiplnbFInbXm9BNMK17PiRkUbCwazNS0N4GrkZBFU_eh094kOxlI0GlOEaAl0-EALw_wcB
         - 1100 euros  + 30 euros frais de port  -  casette fourni
+    - https://www.alltricks.fr/F-41490-home-training/P-2389861-home_trainer_wahoo_fitness_kickr_v6_wifi 
+        - 1100 euros avec fdp
     - prix conseille 1300 euros
 
 - Wahoo kicker v5 - hard to find but could get good discount here
