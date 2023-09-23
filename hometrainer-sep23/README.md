@@ -74,3 +74,7 @@
 
  - https://thepaincave.net/quel-home-trainer-choisir-en-2022/
  - https://www.materiel-velo.com/infos/fr/meilleur-home-trainer-connecte/
+ - https://www.cyclingnews.com/features/tacx-neo-2t-vs-wahoo-kickr-2022/
+  - neo2t : Price: £1,199    / $1,399.99 / €1,299    / $1,999.00 AUD
+  - kickr : Price: £1,099.99 / $1,299.99 / €1,299.99 / AUD $1,799.95
+- https://www.cycling.io/tacx-neo-2t-vs-wahoo-kickr/
