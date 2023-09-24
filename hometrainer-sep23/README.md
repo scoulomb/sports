@@ -38,6 +38,19 @@
    - prix conseille 1100 euros
 
 
+-  Tacx Neo 2T Smart T2875
+    - https://www.mantel.com/fr/home-trainer-tacx-neo-2t-smart-t2875?spec%5B%5D=24356&spec%5B%5D=24390&utm_source=google&utm_medium=shopping&gclid=Cj0KCQjwvL-oBhCxARIsAHkOiu2UHVlFa7b6vUtysaDDL3jA3pmF8u7xQR7qbLuetzWhiVIPQJW4kiIaArZTEALw_wcB
+        - 1 159,34 euros + 50 euros de cassette
+    - Prix conseillé 1 288,26
+
+
+- **Warning**
+    - T2875=Neo 2T
+    - T2850=Neo 2
+    - Cf. https://www.dcrainmaker.com/2019/11/tacx-neo-2t-smart-trainer-in-depth-review.html (see Post from Patrik)
+
+- We also have the NEO1 : https://www.dcrainmaker.com/2019/11/tacx-neo-2t-smart-trainer-in-depth-review.html
+
 - Wahoo kicker v4 (2018) - refurbished
     - https://fr-eu.wahoofitness.com/devices/indoor-cycling/bike-trainers/reconditioned-kickr-buy-2018 
         - 630 euros - casette fourni
@@ -52,7 +65,7 @@
 
 - Wahoo kicker v5 - hard to find but could get good discount here
     - https://boutique.bipr.fr/boutique/home-trainer/home-trainer-wahoo-kickr-power-v5-axis/
-        - 850 euros (frais de port compris et casette incluse + cle ant) 
+        - 850 euros (frais de port compris et casette incluse + cle ant (would cost 20 euros) + HRV2P (would cost 30 euros))  
     - Best price seen:
         -  https://www.dealabs.com/bons-plans/home-trainer-wahoo-kickr-v5-2438294 792euros
         - https://www.dealabs.com/bons-plans/wahoo-kickr-v5-2509173 700 euros
@@ -69,12 +82,72 @@
 
 - https://www.bike-components.de/fr/Shimano/Cassette-CS-HG700-11-11-vitesses-p62072/?o=300330-argente-11-34&t=b
 
+## Release date 
+
+- Kickr v5 : 2020      (https://zwiftinsider.com/smart-trainer/wahoo-kickr-5/)
+- Kickr v6 : 2022      (https://www.cyclingnews.com/reviews/wahoo-kickr-2022-turbo-trainer/)
+- Neo2 2850: 2018 Nov  (http://www.veloptimal.com/forum/viewtopic.php?f=7&t=8036&p=955414)
+- Neo2T2875 :2019      (https://www.smartbiketrainers.com/tacx-releases-the-neo-2-smart-bike-trainer-6297, https://zwiftinsider.com/tacx-neo-2t-review/#:~:text=Despite%20being%20released%20in%20September,in%20the%20indoor%20training%20space.)
+    - https://www.coachweb.com/gear/cycling-gear/tacx-neo-2t-review#:~:text=The%20Tacx%20Neo%202T%20was,it%20listed%20for%20%C2%A3959). 8aug22
+    - > The Tacx Neo 2T was released in September 2019 and costs $1,399.99 in the US and £1,199.99 in the UK (although, at the time of writing, we’ve seen it listed for £959).
 
 ## Good post
 
- - https://thepaincave.net/quel-home-trainer-choisir-en-2022/
- - https://www.materiel-velo.com/infos/fr/meilleur-home-trainer-connecte/
- - https://www.cyclingnews.com/features/tacx-neo-2t-vs-wahoo-kickr-2022/
-  - neo2t : Price: £1,199    / $1,399.99 / €1,299    / $1,999.00 AUD
-  - kickr : Price: £1,099.99 / $1,299.99 / €1,299.99 / AUD $1,799.95
+
+### Neo 2/2T or Kickr Core v5/6
+
 - https://www.cycling.io/tacx-neo-2t-vs-wahoo-kickr/
+    - > So while the NEO 2T is more expensive, it includes more standard features — making it one of the big reasons as to why it’s such a popular purchase for at-home cycling enthusiasts.
+    - **So it compares kickr v5 with Neo 2T (and not neo 2)**
+- https://thepaincave.net/quel-home-trainer-choisir-en-2022/
+    - Same here **it compares kickr v5 with Neo 2T (and not neo 2)**
+ - https://www.cyclingnews.com/features/tacx-neo-2t-vs-wahoo-kickr-2022/
+    - neo2t    : Price: £1,199    / $1,399.99 / €1,299    / $1,999.00 AUD
+    - kickr v6 : Price: £1,099.99 / $1,299.99 / €1,299.99 / AUD $1,799.95
+    - **it compares kickr v6 (and not the v5) with Neo 2T (and not neo 2)**
+ - https://www.materiel-velo.com/infos/fr/meilleur-home-trainer-connecte/
+    - **it compares kickr v6 (and not the v5) with Neo 2T (and not neo 2)**
+
+- https://velo-critique.com/home-trainer/tacx/neo-2t-smart/
+    - > Suite à l’annonce de ce nouveau NEO 2T Smart de chez Tacx, nous avons décidé de nous le procurer afin de pouvoir le tester et ainsi pouvoir le comparer avec ses prédécesseurs. À savoir le NEO 1 et le NEO 2. Mais aussi avec ses concurrents directs, le Wahoo Fitness Kickr V5 
+    - **So it compares kickr v5 with Neo 2T (and not neo 2)**
+
+
+### Other
+- https://www.dcrainmaker.com/2019/11/tacx-neo-2t-smart-trainer-in-depth-review.html 
+- https://www.coachweb.com/gear/cycling-gear/tacx-neo-2t-review
+- https://zwiftinsider.com/smart-trainer/tacx-neo-2t/
+    - > One of the best, but will it last a lifetime 
+- On TACX SAV 
+    - https://www.troc-velo.com/fr-fr/forum/topic/home-trainer-tacx-neo-2-t-91154/2
+
+
+## Conclusion 
+
+Under 850 Euros (my budget), best product I can have at time of writing (see above)
+- kickr v5 (850 euros)
+- Neo 2 (850 euros)
+
+A lot of post/comment mentions the Neo 2T (2019) is more expensive (100/200 euros) than Kickr V5/V6 (2020/2022 year). But it could worth it, though I do not like build quality of Neo2T in plastic.
+
+I believed we could get it for same price of 850 at time of writing, thus a dilemma.
+But it is not the case as the Neo 2 worth 850 but Neo2T is still >1000 euros. Still no major diff between neo 2 and neo2t: https://www.dcrainmaker.com/2019/11/tacx-neo-2t-smart-trainer-in-depth-review.html
+
+So we actually still have this price difference between kickr v5/6 and Neo2T (where I prefer to not put 200 more for something in plastic).
+
+It confirms my choice of Kickr v5 which I personally prefer, seems more robust in time (I hate plastic), more recent (release 2 years after). And often compared to Neo 2T (and not Neo 2)
+
+Tacx model name are very confusing  
+- Home Trainer Tacx Neo 2 Smart T2850
+- Tacx Neo 2T Smart T2875
+
+It is also well visible in this comparison (price are launching price)
+https://www.dcrainmaker.com/product-comparison-calculator?type=trainer&ids=92332%2C102705%2C115732%2C138418#results
+<!-- https://www.dcrainmaker.com/2019/11/tacx-neo-2t-smart-trainer-in-depth-review.html -->
+
+![](./media/Screenshot-comapre.png)
+
+
+It should not drive decsion but casette is also pre-mounted on v5.
+
+Conclusion: Buy kickr v5 for 850 euros.
