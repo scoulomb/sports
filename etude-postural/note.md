@@ -23,3 +23,5 @@ J'ai apprécié l'approche scientifique et les explications.
 Full: https://mail.google.com/mail/u/0/?ogbl#search/velofitting/WhctKKXwwrNzwpvZJpcSFGVldzBBFGPZlrHCbLtblhsFblBTDVvtfKTjjQTHxhPBSTljHMl
 
 Resititution: https://mail.google.com/mail/u/0/?ogbl#search/velofitting/WhctKKXwwrNxxlzZcTSnGRvGVLnTvlrNpHgbQjCCMqlKPGGlwPJPkkJpqSJvhVjrZKhDpbG
+
+And copied in resitution folder.
