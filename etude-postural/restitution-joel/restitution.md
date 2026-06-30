@@ -1,3 +1,16 @@
+# Restitution Joel
+
+
+## Original 
+
+
+Full: https://mail.google.com/mail/u/0/?ogbl#search/velofitting/WhctKKXwwrNzwpvZJpcSFGVldzBBFGPZlrHCbLtblhsFblBTDVvtfKTjjQTHxhPBSTljHMl (ou feedback se basant sur [my notes](../my-notes.md))
+
+Resititution: https://mail.google.com/mail/u/0/?ogbl#search/velofitting/WhctKKXwwrNxxlzZcTSnGRvGVLnTvlrNpHgbQjCCMqlKPGGlwPJPkkJpqSJvhVjrZKhDpbG
+
+
+## Mail
+
 Bonjour Sylvain,
 
 Comme convenu, voici les restitutions de ton positionnement chez Chullanka à Antibes pour ton vélo route.
@@ -21,5 +34,6 @@ Bien cordialement. Joël.
 Joël STEVE
 Président  Velofitting
 
+## PJ
 
-[Detila](restitutionvelofittingpositionnementroutesylvaincoulomb)
+[PJ](restitutionvelofittingpositionnementroutesylvaincoulomb)
