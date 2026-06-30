@@ -16,3 +16,6 @@ Restitution officielle de Joël avec :
 - Côtes du vélo avant/après
 
 
+## Comment 
+
+See [git notes](../../ACS-sre-manager/learn/git/README.md#note--migrating-a-repo-from-https-to-ssh)
